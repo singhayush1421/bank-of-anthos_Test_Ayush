@@ -1,2 +1,1 @@
-Test the new format as shared by Sachin
-Added two rows and deleted 2 rows
+Delete all
