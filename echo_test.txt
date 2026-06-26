@@ -1,1 +1,4 @@
-Validating the changes are captured Addition/Deletion etc
+Trying end to end flow. 
+From repo commit
+To
+Postgres store
