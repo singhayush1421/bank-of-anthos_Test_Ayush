@@ -1,4 +1,1 @@
-Testting entire flow from Bank of Anthos commit 
-To 
-Event details getting stored in DB.
-Final try to check commit and details update to postgres
+Validating the changes are captured Addition/Deletion etc
